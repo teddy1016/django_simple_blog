@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'crispy_bootstrap4',
     'django_summernote',
+    'django.contrib.sitemaps',
     'blog'
 ]
 
